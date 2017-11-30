@@ -1,0 +1,31 @@
+team_name,team_id,conference,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016
+Atlanta Hawks,ATL,Eastern,-1,-1,-1,0,0,0,1,1,1,1,1,1,1,1,1,1
+Boston Celtics,BOS,Eastern,-1,-1,-1,1,0,0,1,1,1,1,1,1,0,1,1,1
+Charlotte Hornets,CHO,Eastern,-1,-1,-1,0,1,0,0,0,1,0,0,0,1,0,1,0
+Chicago Bulls,CHI,Eastern,-1,-1,-1,1,0,1,0,1,1,1,1,1,1,1,0,1
+Cleveland Cavaliers,CLE,Eastern,-1,-1,-1,0,1,1,1,1,1,0,0,0,0,1,1,1
+Detroit Pistons,DET,Eastern,-1,-1,-1,1,1,1,1,1,0,0,0,0,0,0,1,0
+Indiana Pacers,IND,Eastern,-1,-1,-1,1,1,0,0,0,0,1,1,1,1,0,1,1
+Miami Heat,MIA,Eastern,-1,-1,-1,1,1,1,0,1,1,1,1,1,1,0,1,0
+Milwaukee Bucks,MIL,Eastern,-1,-1,-1,0,1,0,0,0,1,0,0,1,0,1,0,1
+New Jersey Nets,BRK,Eastern,-1,-1,-1,1,1,1,0,0,0,0,0,1,1,1,0,0
+New York Knicks,NYK,Eastern,-1,-1,-1,0,0,0,0,0,0,1,1,1,0,0,0,0
+Orlando Magic,ORL,Eastern,-1,-1,-1,0,0,1,1,1,1,1,1,0,0,0,0,0
+Philadelphia 76ers,PHI,Eastern,-1,-1,-1,1,0,0,1,1,0,1,1,0,0,0,0,0
+Toronto Raptors,TOR,Eastern,-1,-1,-1,0,0,1,1,0,0,0,0,0,1,1,1,1
+Washington Wizards,WAS,Eastern,-1,-1,-1,1,1,1,1,0,0,0,0,0,1,1,0,1
+Dallas Mavericks,DAL,Western,-1,-1,-1,1,1,1,1,1,1,1,1,0,1,1,1,0
+Denver Nuggets,DEN,Western,-1,-1,-1,1,1,1,1,1,1,1,1,1,0,0,0,0
+Golden State Warriors,GSW,Western,-1,-1,-1,0,0,1,0,0,0,0,0,1,1,1,1,1
+Houston Rockets,HOU,Western,-1,-1,-1,1,0,1,1,1,0,0,0,1,1,1,1,1
+Los Angeles Clippers,LAC,Western,-1,-1,-1,0,1,0,0,0,0,0,1,1,1,1,1,1
+Los Angeles Lakers,LAL,Western,-1,-1,-1,0,1,1,1,1,1,1,1,1,0,0,0,0
+Memphis Grizzlies,MEM,Western,-1,-1,-1,1,1,0,0,0,0,1,1,1,1,1,1,1
+Minnesota Timberwolves,MIN,Western,-1,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0
+New Orleans Pelicans,NOP,Western,-1,-1,-1,0,0,0,1,1,0,1,0,0,0,1,0,0
+Phoenix Suns,PHO,Western,-1,-1,-1,1,1,1,1,0,1,0,0,0,0,0,0,0
+Portland Trail Blazers,POR,Western,-1,-1,-1,0,0,0,0,1,1,1,0,0,1,1,1,1
+Sacramento Kings,SAC,Western,-1,-1,-1,1,1,0,0,0,0,0,0,0,0,0,0,0
+San Antonio Spurs,SAS,Western,-1,-1,-1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Seattle SuperSonics/OKC,OKC,Western,-1,-1,-1,1,0,0,0,0,1,1,1,1,1,0,1,1
+Utah Jazz,UTA,Western,-1,-1,-1,0,0,1,1,1,1,0,1,0,0,0,0,1
